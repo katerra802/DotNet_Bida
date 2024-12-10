@@ -1,0 +1,409 @@
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\bida test.exe.config
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\bida test.exe
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\bida test.pdb
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.Shared.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\MyLibrary.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\RestSharp.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Buffers.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Memory.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Text.Json.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\stdole.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\MyLibrary.pdb
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\RestSharp.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Buffers.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Memory.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Text.Encodings.Web.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Text.Json.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.ValueTuple.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida test.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.DangKy.resources
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.DangNhap.resources
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.DanhSachBan.resources
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.Dashboard_backup.resources
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.Datban.resources
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.DichVu.resources
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.Gia.resources
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.ThongKe.resources
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.KhachHang.resources
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.NhanVien.resources
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.SuaBan.resources
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.SuaKH.resources
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.SuaThongTinNhanVien.resources
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.SuaUD.resources
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.ThanhToan.resources
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.ThemBanMoi.resources
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.ThemKH.resources
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.ThemNhanVien.resources
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.ThemUD.resources
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida test.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida test.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida test.csproj.Up2Date
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida test.exe
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida test.pdb
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.inHoaDon.resources
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\MyLibrary.dll.config
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.Data.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.Logic.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.UI.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.UI.Wpf.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Win32.Registry.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Security.AccessControl.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Security.Principal.Windows.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.Data.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.Logic.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.UI.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.UI.Wpf.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Collections.Immutable.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Security.AccessControl.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Security.Principal.Windows.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.XacNhanDatBan.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\bida test.exe.config
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\bida test.exe
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\bida test.pdb
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportSource.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.Shared.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Guna.UI2.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Options.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.CoreUtility.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.Data.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.Logic.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.UI.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.UI.Wpf.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Threading.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Validation.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Win32.Registry.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\MyLibrary.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\RestSharp.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Buffers.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Collections.Immutable.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Memory.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Security.AccessControl.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Security.Principal.Windows.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Text.Encodings.Web.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Text.Json.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.ValueTuple.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\stdole.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\MyLibrary.pdb
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\MyLibrary.dll.config
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Logging.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Options.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Primitives.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.CoreUtility.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.Data.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.Logic.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.UI.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.UI.Wpf.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Threading.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Validation.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Win32.Registry.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\RestSharp.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Buffers.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Collections.Immutable.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Memory.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Security.AccessControl.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Security.Principal.Windows.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Text.Encodings.Web.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Text.Json.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.ValueTuple.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\cs\Microsoft.VisualStudio.Threading.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\de\Microsoft.VisualStudio.Threading.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\es\Microsoft.VisualStudio.Threading.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\fr\Microsoft.VisualStudio.Threading.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\it\Microsoft.VisualStudio.Threading.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\ja\Microsoft.VisualStudio.Threading.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\ko\Microsoft.VisualStudio.Threading.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\pl\Microsoft.VisualStudio.Threading.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\ru\Microsoft.VisualStudio.Threading.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\tr\Microsoft.VisualStudio.Threading.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida test.csproj.AssemblyReference.cache
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.DangKy.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.DangNhap.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.DanhSachBan.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.Dashboard_backup.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.Datban.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.DichVu.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.XacNhanDatBan.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.Gia.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.inHoaDon.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.ThongKe.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.KhachHang.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.NhanVien.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.Properties.Resources.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.SuaBan.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.SuaKH.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.SuaThongTinNhanVien.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.SuaUD.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.ThanhToan.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.ThemBanMoi.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.ThemKH.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.ThemNhanVien.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.ThemUD.resources
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida test.csproj.GenerateResource.cache
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida test.csproj.CoreCompileInputs.cache
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida test.csproj.CopyComplete
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida test.exe
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida test.pdb
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\bida test.exe.config
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\bida test.exe
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\bida test.pdb
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.Shared.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.Data.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.Logic.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.UI.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.UI.Wpf.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Win32.Registry.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\MyLibrary.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\RestSharp.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Buffers.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Memory.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Security.AccessControl.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Security.Principal.Windows.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Text.Json.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\stdole.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\MyLibrary.pdb
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\MyLibrary.dll.config
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.Data.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.Logic.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.UI.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Text.UI.Wpf.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\RestSharp.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Buffers.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Collections.Immutable.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Memory.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Security.AccessControl.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Security.Principal.Windows.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Text.Encodings.Web.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Text.Json.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\System.ValueTuple.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\bin\x64\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida test.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.DangKy.resources
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.DangNhap.resources
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.DanhSachBan.resources
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.Dashboard_backup.resources
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.Datban.resources
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.DichVu.resources
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.XacNhanDatBan.resources
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.Gia.resources
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.inHoaDon.resources
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.ThongKe.resources
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.KhachHang.resources
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.NhanVien.resources
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.SuaBan.resources
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.SuaKH.resources
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.SuaThongTinNhanVien.resources
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.SuaUD.resources
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.ThanhToan.resources
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.ThemBanMoi.resources
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.ThemKH.resources
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.ThemNhanVien.resources
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.ThemUD.resources
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida test.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida test.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida test.csproj.Up2Date
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida test.exe
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida test.pdb
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\bida test\obj\x64\Debug\bida_test.frmLichSu.resources

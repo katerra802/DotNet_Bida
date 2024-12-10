@@ -1,0 +1,24 @@
+C:\Users\ADMIN\Documents\Zalo Received Files\bida test (1)\bida test\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\bida test (1)\bida test\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\bida test (1)\bida test\MyLibrary\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\bida test (1)\bida test\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\bida test (1)\bida test\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\bida test (1)\bida test\MyLibrary\obj\Debug\MyLibrary.csproj.Up2Date
+C:\Users\ADMIN\Documents\Zalo Received Files\bida test (1)\bida test\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\bida test (1)\bida test\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\ADMIN\Videos\.Net\Nhóm 06_18_Phần mềm BIDA\Phần mềm quản lý BIDA\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\ADMIN\Videos\.Net\Nhóm 06_18_Phần mềm BIDA\Phần mềm quản lý BIDA\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\ADMIN\Videos\.Net\Nhóm 06_18_Phần mềm BIDA\Phần mềm quản lý BIDA\MyLibrary\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Videos\.Net\Nhóm 06_18_Phần mềm BIDA\Phần mềm quản lý BIDA\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Videos\.Net\Nhóm 06_18_Phần mềm BIDA\Phần mềm quản lý BIDA\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Videos\.Net\Nhóm 06_18_Phần mềm BIDA\Phần mềm quản lý BIDA\MyLibrary\obj\Debug\MyLibrary.csproj.Up2Date
+C:\Users\ADMIN\Videos\.Net\Nhóm 06_18_Phần mềm BIDA\Phần mềm quản lý BIDA\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\ADMIN\Videos\.Net\Nhóm 06_18_Phần mềm BIDA\Phần mềm quản lý BIDA\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\obj\Debug\MyLibrary.csproj.Up2Date
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\obj\Debug\MyLibrary.pdb

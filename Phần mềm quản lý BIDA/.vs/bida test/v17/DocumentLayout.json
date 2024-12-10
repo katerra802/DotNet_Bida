@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E231A2E0-1FAF-484F-9AA2-198C8BA5676D}|bida test\\bida test.csproj|C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\danhsachban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E231A2E0-1FAF-484F-9AA2-198C8BA5676D}|bida test\\bida test.csproj|solutionrelative:bida test\\danhsachban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E231A2E0-1FAF-484F-9AA2-198C8BA5676D}|bida test\\bida test.csproj|C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\danhsachban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E231A2E0-1FAF-484F-9AA2-198C8BA5676D}|bida test\\bida test.csproj|solutionrelative:bida test\\danhsachban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E231A2E0-1FAF-484F-9AA2-198C8BA5676D}|bida test\\bida test.csproj|C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E231A2E0-1FAF-484F-9AA2-198C8BA5676D}|bida test\\bida test.csproj|solutionrelative:bida test\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E231A2E0-1FAF-484F-9AA2-198C8BA5676D}|bida test\\bida test.csproj|c:\\users\\admin\\desktop\\dotnet\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD bida\\bida test\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E231A2E0-1FAF-484F-9AA2-198C8BA5676D}|bida test\\bida test.csproj|solutionrelative:bida test\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E231A2E0-1FAF-484F-9AA2-198C8BA5676D}|bida test\\bida test.csproj|C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E231A2E0-1FAF-484F-9AA2-198C8BA5676D}|bida test\\bida test.csproj|solutionrelative:bida test\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E231A2E0-1FAF-484F-9AA2-198C8BA5676D}|bida test\\bida test.csproj|C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E231A2E0-1FAF-484F-9AA2-198C8BA5676D}|bida test\\bida test.csproj|solutionrelative:bida test\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E231A2E0-1FAF-484F-9AA2-198C8BA5676D}|bida test\\bida test.csproj|C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E231A2E0-1FAF-484F-9AA2-198C8BA5676D}|bida test\\bida test.csproj|solutionrelative:bida test\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E231A2E0-1FAF-484F-9AA2-198C8BA5676D}|bida test\\bida test.csproj|C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E231A2E0-1FAF-484F-9AA2-198C8BA5676D}|bida test\\bida test.csproj|solutionrelative:bida test\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E231A2E0-1FAF-484F-9AA2-198C8BA5676D}|bida test\\bida test.csproj|C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\dashboard_backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E231A2E0-1FAF-484F-9AA2-198C8BA5676D}|bida test\\bida test.csproj|solutionrelative:bida test\\dashboard_backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E231A2E0-1FAF-484F-9AA2-198C8BA5676D}|bida test\\bida test.csproj|C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\datban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E231A2E0-1FAF-484F-9AA2-198C8BA5676D}|bida test\\bida test.csproj|solutionrelative:bida test\\datban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E231A2E0-1FAF-484F-9AA2-198C8BA5676D}|bida test\\bida test.csproj|C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\datban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E231A2E0-1FAF-484F-9AA2-198C8BA5676D}|bida test\\bida test.csproj|solutionrelative:bida test\\datban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThanhToan.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\ThanhToan.cs",
+              "RelativeDocumentMoniker": "bida test\\ThanhToan.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\ThanhToan.cs",
+              "RelativeToolTip": "bida test\\ThanhToan.cs",
+              "ViewState": "AgIAADEBAAAAAAAAAAAUwBMBAADOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:25:27.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThanhToan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\ThanhToan.cs",
+              "RelativeDocumentMoniker": "bida test\\ThanhToan.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\ThanhToan.cs [Design]",
+              "RelativeToolTip": "bida test\\ThanhToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:15:28.313Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DanhSachBan.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\DanhSachBan.cs",
+              "RelativeDocumentMoniker": "bida test\\DanhSachBan.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\DanhSachBan.cs",
+              "RelativeToolTip": "bida test\\DanhSachBan.cs",
+              "ViewState": "AgIAAD8CAAAAAAAAAAAtwEkCAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:15:14.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DanhSachBan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\DanhSachBan.cs",
+              "RelativeDocumentMoniker": "bida test\\DanhSachBan.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\DanhSachBan.cs [Design]",
+              "RelativeToolTip": "bida test\\DanhSachBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:15:12.119Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThongKe.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\ThongKe.cs",
+              "RelativeDocumentMoniker": "bida test\\ThongKe.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\ThongKe.cs",
+              "RelativeToolTip": "bida test\\ThongKe.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwF8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:58:50.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThongKe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\ThongKe.cs",
+              "RelativeDocumentMoniker": "bida test\\ThongKe.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\ThongKe.cs [Design]",
+              "RelativeToolTip": "bida test\\ThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:54:49.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard_backup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\Dashboard_backup.cs",
+              "RelativeDocumentMoniker": "bida test\\Dashboard_backup.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\Dashboard_backup.cs [Design]",
+              "RelativeToolTip": "bida test\\Dashboard_backup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:54:30.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Datban.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\Datban.cs",
+              "RelativeDocumentMoniker": "bida test\\Datban.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\Datban.cs",
+              "RelativeToolTip": "bida test\\Datban.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAkwN8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:27:41.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Datban.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\Datban.cs",
+              "RelativeDocumentMoniker": "bida test\\Datban.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\New folder\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\Datban.cs [Design]",
+              "RelativeToolTip": "..\\..\\New folder\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\Datban.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:27:40.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DichVu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\DichVu.cs",
+              "RelativeDocumentMoniker": "bida test\\DichVu.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\DichVu.cs [Design]",
+              "RelativeToolTip": "bida test\\DichVu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:21:38.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DichVu.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\DichVu.cs",
+              "RelativeDocumentMoniker": "bida test\\DichVu.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\dotnet\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD BIDA\\bida test\\DichVu.cs",
+              "RelativeToolTip": "bida test\\DichVu.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:20:17.401Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 309,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

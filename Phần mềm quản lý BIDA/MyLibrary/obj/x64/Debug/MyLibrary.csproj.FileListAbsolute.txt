@@ -1,0 +1,111 @@
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\MyLibrary.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\MyLibrary.pdb
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\obj\x64\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\obj\x64\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\obj\x64\Debug\MyLibrary.csproj.Up2Date
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\obj\x64\Debug\MyLibrary.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\obj\x64\Debug\MyLibrary.pdb
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\MyLibrary.dll.config
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Buffers.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Memory.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Buffers.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Memory.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ADMIN\Desktop\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.ValueTuple.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\MyLibrary.dll.config
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\MyLibrary.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\MyLibrary.pdb
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Guna.UI2.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Options.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Buffers.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Memory.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.ValueTuple.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Logging.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Options.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Primitives.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Buffers.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Memory.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.ValueTuple.xml
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\obj\x64\Debug\MyLibrary.csproj.AssemblyReference.cache
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\obj\x64\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\obj\x64\Debug\MyLibrary.csproj.CopyComplete
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\obj\x64\Debug\MyLibrary.dll
+D:\Workspace\CongNghe_Net\dotnet\dotnet\Phần mềm quản lý BIDA\MyLibrary\obj\x64\Debug\MyLibrary.pdb
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\MyLibrary.dll.config
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\MyLibrary.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\MyLibrary.pdb
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Guna.UI2.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Buffers.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Memory.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Buffers.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Memory.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\bin\x64\Debug\System.ValueTuple.xml
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\obj\x64\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\obj\x64\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\obj\x64\Debug\MyLibrary.csproj.Up2Date
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\obj\x64\Debug\MyLibrary.dll
+C:\Users\ADMIN\Desktop\New folder\dotnet\Phần mềm quản lý BIDA\MyLibrary\obj\x64\Debug\MyLibrary.pdb
